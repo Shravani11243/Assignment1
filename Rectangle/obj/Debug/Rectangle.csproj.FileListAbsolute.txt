@@ -1,0 +1,7 @@
+C:\Users\Mars\source\repos\Assignment_1\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\Mars\source\repos\Assignment_1\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\Mars\source\repos\Assignment_1\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\Mars\source\repos\Assignment_1\Rectangle\obj\Debug\Rectangle.csprojAssemblyReference.cache
+C:\Users\Mars\source\repos\Assignment_1\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Mars\source\repos\Assignment_1\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\Mars\source\repos\Assignment_1\Rectangle\obj\Debug\Rectangle.pdb
